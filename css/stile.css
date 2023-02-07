@@ -15,7 +15,8 @@ text-align: center;
 footer {
     text-align: center;
     padding: 2%;
-    margin-bottom: -30px;
+    margin-bottom: -20px;
+    margin-left: -20px;
     background: rgb(174,197,69);
     background: linear-gradient(106deg, rgba(174,197,69,1) 0%, rgba(144,238,225,0.4470120811996674) 35%, rgba(143,237,225,1) 100%); 
 }
@@ -25,6 +26,7 @@ header {
     background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(70,252,246,0.12768435010723034) 100%); 
     padding: 2%;
 margin-top: -30px;
+margin-left: -20px;
 }
 header button {
     padding: 1%;
