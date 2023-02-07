@@ -1,3 +1,37 @@
+.nunzio {
+text-align: center;
+}
+#massimo {
+    text-align: center;
+}
 .nunzio img{
-    height: 400px; width: 600px;
+    height: 600px; width: 800px;
+    margin: 1cm;
+}
+#buttonimage{
+    height: 600px; width: 800px; 
+    
+}
+footer {
+    text-align: center;
+    padding: 2%;
+    margin-bottom: -30px;
+    background: rgb(174,197,69);
+    background: linear-gradient(106deg, rgba(174,197,69,1) 0%, rgba(144,238,225,0.4470120811996674) 35%, rgba(143,237,225,1) 100%); 
+}
+header {
+    text-align: center;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(70,252,246,0.12768435010723034) 100%); 
+    padding: 2%;
+margin-top: -30px;
+}
+header button {
+    padding: 1%;
+    background: rgb(197,69,72);
+background: linear-gradient(106deg, rgba(197,69,72,1) 0%, rgba(241,171,216,0.15849667503720233) 100%, rgba(212,177,183,0) 100%); 
+}
+body{
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(248,255,247,1) 100%);
 }
